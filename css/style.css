@@ -1,0 +1,30 @@
+.jumbotron{
+	   padding: 5rem 2rem 3rem 2rem;
+	   margin-bottom: 5px;
+}
+.yzx-zhanshi{
+	margin-top: 20px;
+}
+.yzx-footer p{
+	color: #666;
+}
+.yzx-footer p a{
+	color: #888;
+	text-decoration: none;
+}
+footer.yzx-bottom p{
+	line-height: 10px;
+}
+footer p a{
+	color: #888;
+	font-weight: bold;
+	text-decoration: none;
+}
+footer p a:hover{
+	text-decoration: none;
+	color: red;
+	font-weight: bold;
+}
+.container .carousel-inner .carousel-item img{
+	width: 100%;
+}
